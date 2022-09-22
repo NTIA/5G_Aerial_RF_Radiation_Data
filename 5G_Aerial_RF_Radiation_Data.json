@@ -1,0 +1,50 @@
+{
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "dataset": {
+        "title": "5G_Aerial_RF_Radiation_Data",
+        "description": "Measured airborne radiation patterns around 5G MIMO gNodeB base station transmitters.",
+        "keyword": [
+            "data", "radar", "altimeter", "emc", "5g", "mimo", "5g-nr", "airborne-data", "ji-frai", "radalt"
+        ],
+        "modified": "2022-08-24T00:00:00Z",
+        "publisher": {
+            "name": "Institute for Telecommunication Sciences",
+            "subOrganizationOf": {
+                "name": "National Telecommunications and Information Administration",
+                "subOrganizationOf": {
+                    "name": "Department of Commerce",
+                    "subOrganizationOf": {
+                        "name": "U.S. Government"
+                    }
+                }
+            }
+        },
+        "contactPoint": {
+            "fn": "Frank Sanders",
+            "hasEmail": "mailto:fsanders@ntia.gov"
+        },
+        "identifier": "https://github.com/NTIA/5G_Aerial_RF_Radiation_Data",
+        "accessLevel": "public",
+        "bureauCode": [
+            "006:60"
+        ],
+        "programCode": [
+            "006:064"
+        ],
+        "references": [
+            "<todo: URL linking to the paper>"
+        ],
+        "spatial": "40.1266, -105.2444",
+        "temporal": "2022-01-18/2022-06-09",
+        "distribution": [
+            {
+                "@type": "dcat:Distribution",
+                "description": "Measured airborne radiation patterns around 5G MIMO gNodeB base station transmitters.",
+                "downloadURL": "https://github.com/NTIA/5G_Aerial_RF_Radiation_Data",
+                "format": "Zipped CSVs, MATs, and PNGs",
+                "mediaType": "application/zip",
+                "title": "..."
+            }
+        ]
+    }
+}
