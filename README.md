@@ -4,10 +4,10 @@
 
 This repository contains two data sets collected at the Commerce Department’s Radio Quiet Zone at Table Mountain, Colorado, as well as Hill Air Force Base, Utah: 
 
-(1) calibrated airborne field-strength measurements of spatial radiation patterns in three dimensions around 5G base station antennas; and 
+(1) Calibrated airborne field-strength measurements of spatial radiation patterns in three dimensions around 5G base station antennas; and 
 (2) radiated wideband, wide dynamic range 5G transmitter base station emission spectra. 
 
-This repositotuy includes the full library of 5G radiation patterns for all three 5G 3700-3980 MHz base station models that are being deployed in the US; and wideband, wide dynamic range emission spectra of those same radios.
+This repository includes the full library of 5G radiation patterns for all three 5G 3700-3980 MHz base station models that are being deployed in the US; and wideband, wide dynamic range emission spectra of those same radios.
 
 ## Dataset Format
 
