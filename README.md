@@ -19,10 +19,4 @@ For a more in-depth exploration of how and why this data was produced, see the a
 
 ## Sponsor
 
-This report data is part of a larger program by the Joint Interagency 5G Radar Altimeter Interference (JI-FRAI) Quick Reaction Testing (QRT) to understand potential 5G interference issues.
-
-CDR Steve Simpson
-Test Director, JI-FRAI QRT
-USCG Office of Aviation Forces (CG-7113)
-HC-144 Platform Manager
-Stephen.m.simpson@uscg.mil
+This report data is part of a larger program by the Joint Interagency 5G Radar Altimeter Interference (JI-FRAI) Quick Reaction Testing (QRT) to understand potential 5G interference issues. For more information about JI-FRAI, contact CDR Steve Simpson at stephen.m.simpson@uscg.mil.
