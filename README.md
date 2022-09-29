@@ -16,3 +16,7 @@ Data is contained in zipped files. Each zipped file represents a measurement cam
 ## NTIA Report
 
 For a more in-depth exploration of how and why this data was produced, see the associated NTIA Report TR-22-562 "Measurements of 5G New Radio Spectral and Spatial Power Emissions for Radar Altimeter Interference Analysis".
+
+## Sponsor
+
+This report data is part of a larger program by the Joint Interagency 5G Radar Altimeter Interference (JI-FRAI) Quick Reaction Testing (QRT) to understand potential 5G interference issues.
