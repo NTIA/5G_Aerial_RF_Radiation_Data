@@ -32,7 +32,7 @@
             "006:064"
         ],
         "references": [
-            "<todo: URL linking to the paper>"
+            "https://its.ntia.gov/publications/3289.aspx"
         ],
         "spatial": "40.1266, -105.2444",
         "temporal": "2022-01-18/2022-06-09",
@@ -43,7 +43,7 @@
                 "downloadURL": "https://github.com/NTIA/5G_Aerial_RF_Radiation_Data",
                 "format": "Zipped CSVs, MATs, and PNGs",
                 "mediaType": "application/zip",
-                "title": "..."
+                "title": "5G Aerial RF Radiation Data"
             }
         ]
     }
