@@ -1,0 +1,16 @@
+{
+    "creators": [
+        {   
+            "affiliation": "The Institute for Telecommunication Sciences",
+            "name": "Sanders, Frank"
+        }
+    ],
+
+    "title": "5G Aerial RF Radiation Data",
+
+    "upload_type": "data",
+
+    "version": "1",
+
+    "keywords": ["data", "radar", "altimeter", "emc", "5g", "mimo", "5g-nr", "airborne-data", "ji-frai", "radalt"]
+}
