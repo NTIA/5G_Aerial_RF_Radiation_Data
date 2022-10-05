@@ -11,11 +11,13 @@ This repository includes the full library of 5G radiation patterns for all three
 
 ## Dataset Format
 
-Data is contained in zipped files. Each zipped file represents a measurement campaign. Data includes measurement (.mat, .csv, xlsx) files, plot (.jpg, .fig) files, and a readme (.txt) file.
+Data is contained in zipped files. Each zipped file represents a measurement campaign. Data includes measurement (.mat, .csv, .xlsx) files, plot (.jpg, .fig) files, and a readme (.txt) file.
 
 ## NTIA Report
 
-For a more in-depth exploration of how and why this data was produced, see the associated NTIA Report TR-22-562 "Measurements of 5G New Radio Spectral and Spatial Power Emissions for Radar Altimeter Interference Analysis".
+For a more in-depth exploration of how and why this data was produced, see the [associated NTIA Report.](https://its.ntia.gov/publications/3289.aspx)
+
+_Sanders, F. H., K. R. Calahan, G. A. Sanders, and S. M. Tran, “Measurements of 5G New Radio Spectral and Spatial Power Emissions for Radar Altimeter Interference Analysis,” NTIA Technical Report TR-22-562, U.S. Dept. of Commerce, October 2022._
 
 ## Sponsor
 
