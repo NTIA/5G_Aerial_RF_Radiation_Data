@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: '5G Aerial RF Radiation Data'
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: data
+authors:
+  - given-names: Frank
+    family-names: Sanders
+    email: fsanders@ntia.gov
+doi: 10.5281/zenodo.7150540
+url: https://github.com/NTIA/5G_Aerial_RF_Radiation_Data
+version: 1.0
