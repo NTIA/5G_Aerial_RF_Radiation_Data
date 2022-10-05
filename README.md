@@ -1,4 +1,5 @@
 # 5G_Aerial_RF_Radiation_Data
+[![DOI](https://zenodo.org/badge/540043368.svg)](https://zenodo.org/badge/latestdoi/540043368)
 
 ## Description
 
