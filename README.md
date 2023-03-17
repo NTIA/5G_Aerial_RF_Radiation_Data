@@ -12,7 +12,7 @@ This repository includes the full library of 5G radiation patterns for all three
 
 ## Dataset Format
 
-Data is contained in zipped files. Each zipped file represents a measurement campaign. Data includes measurement (.mat, .csv, .xlsx) files, plot (.jpg, .fig) files, and a readme (.txt) file.
+Data is contained in zipped files. Each zipped file represents a measurement campaign. Data includes measurement (.mat, .csv, .xlsx) files, plot (.jpg, .fig) files, and a readme (.txt) file. The data can be accessed by clicking on Dataset under Releases on the right side of this page.
 
 ## NTIA Report
 
