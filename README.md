@@ -10,7 +10,7 @@ This repository contains two data sets collected at the Commerce Department’s 
 
 This repository includes the full library of 5G radiation patterns for all three 5G 3700-3980 MHz base station models that are being deployed in the US; and wideband, wide dynamic range emission spectra of those same radios.
 
-## Dataset Format
+## Data Set Format
 
 Data is contained in zipped files. Each zipped file represents a measurement campaign. Data includes measurement (.mat, .csv, .xlsx) files, plot (.jpg, .fig) files, and a readme (.txt) file. The data can be accessed by clicking on Dataset under Releases on the right side of the Github repository page.
 
