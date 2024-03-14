@@ -3,7 +3,7 @@
 
 ## Description
 
-This repository contains data sets collected at the Commerce Department’s Radio Quiet Zone at Table Mountain, Colorado, as well as Hill Air Force Base, Utah: 
+This repository contains datasets collected at the U.S. Department of Commerce Table Mountain Radio Quiet Zone in Longmont, Colorado, as well as Hill Air Force Base, Utah: 
 
 (1) Calibrated airborne field-strength measurements of spatial radiation patterns in three dimensions around 5G base station antennas; and 
 (2) radiated wideband, wide dynamic range 5G transmitter base station emission spectra. 
